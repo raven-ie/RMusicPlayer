@@ -1,8 +1,6 @@
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-// Copyright 2005-2008 Dead Cow Studios. All Rights Reserved.
-// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-// Coder: Raven
-// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/**
+ * Copyright 2008 Raven
+ */
 // Stores last used RMusic_Controller when game is saved.
 class RMusic_Save extends RMusic_Component
 				NoUserCreate;
